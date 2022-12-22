@@ -9,7 +9,7 @@ This is complete admission form with printable form in PHP,MYSQL with boostrap. 
 responsive registration form. 
 ![image](https://user-images.githubusercontent.com/41726733/209174619-a2d1c094-86c8-4abd-87fa-66d986ee54f0.png)
 
-After registering , user redirects to the preview page. A student can check complete details on preview page. After that student can print this page or save as PDF 
+After registering , user redirects to the preview page. A student can check complete details on preview page. After that, student can print this page or save as PDF 
 on local computer for future reference. 
 ![image](https://user-images.githubusercontent.com/41726733/209174885-f483a32c-567c-49c0-a3ed-b772eb8e8a99.png)
 
@@ -23,5 +23,5 @@ Compress the zip file and find the database table in database folder. <br>
 Create a database .  <br>
 Import database from the database folder .<br> 
 Edit config.php file and set your connection credentials.<br> 
-Execte the code and enjoy registrtion system in PHP with MYSQL database. <br>
+Execute the code and enjoy registrtion system in PHP with MYSQL database. <br>
 
