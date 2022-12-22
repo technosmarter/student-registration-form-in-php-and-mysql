@@ -17,7 +17,7 @@ on local computer for future reference.
 
 First , you will need complete zip file for student registration form. You can watch demo and download student registration system from here . 
 <br>
-<a href="https://technosmarter.com/item/student-registration-form-in-php-and-mysql-source-code">Student registration form in PHP and MYSQL | Source Code</a> 
+<a target="_blank" href="https://technosmarter.com/item/student-registration-form-in-php-and-mysql-source-code">Student registration form in PHP and MYSQL | Source Code</a> 
 Get complete soure code in a zip file for student registration form. <br>
 Compress the zip file and find the database table in database folder. <br>
 Create a database .  <br>
