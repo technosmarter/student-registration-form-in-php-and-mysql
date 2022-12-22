@@ -1,11 +1,11 @@
-# Student registration form with printable preview in PHP with MYSQL databse 
+# Student registration form with printable preview in PHP with MYSQL database 
 Create student registration form in PHP with MYSQL database. Student registration form with printable preview in PHP, bootstrap and MYSQL database. 
-The student registration form is used to get all data from the students. Various schools or colleges are using the student registration form. The registration form is known as the student admission form. Any student can complete their admission using this admission form.
+The student registration form is used to get information from the students. Various schools or colleges are using the student registration form. The registration form is known as the student admission form. Any student can complete their admission using this admission form.
 You can create a student registration form in PHP with the MYSQL database. 
 ![image](https://user-images.githubusercontent.com/41726733/209174144-66160b08-3980-4a83-8c71-bc4ca716b56f.png)
 
 Students can register with registration form and print form and save as pdf. Students can make hard copy of the form or save as PDF. 
-This is complete admission form with printable form in PHP,MYSQL with boostrap. As you know , bootstrap is one of the best framework that is used to make 
+This is complete admission form with printable form in PHP,MYSQL with bootstrap. As you know , bootstrap is one of the best framework that is used to make 
 responsive registration form. 
 ![image](https://user-images.githubusercontent.com/41726733/209174619-a2d1c094-86c8-4abd-87fa-66d986ee54f0.png)
 
@@ -15,7 +15,7 @@ on local computer for future reference.
 
 <h2>How to install student registration form in PHP and MYSQL - </h2>
 
-First , you will need complete zip file for student registration form. You can watch demo and download student registration system from here . 
+First, you will need complete zip file for student registration form. You can watch demo and download student registration system from here . 
 <br>
 <a target="_blank" href="https://technosmarter.com/item/student-registration-form-in-php-and-mysql-source-code">Student registration form in PHP and MYSQL | Source Code</a> 
 Get complete soure code in a zip file for student registration form. <br>
@@ -23,5 +23,5 @@ Compress the zip file and find the database table in database folder. <br>
 Create a database .  <br>
 Import database from the database folder .<br> 
 Edit config.php file and set your connection credentials.<br> 
-Execute the code and enjoy registrtion system in PHP with MYSQL database. <br>
+Execute the code and enjoy registrtion form in PHP with MYSQL database. <br>
 
