@@ -13,13 +13,15 @@ After registering , user redirects to the preview page. A student can check comp
 on local computer for future reference. 
 ![image](https://user-images.githubusercontent.com/41726733/209174885-f483a32c-567c-49c0-a3ed-b772eb8e8a99.png)
 
-How to install student registration form in PHP and MYSQL - 
+<h2>How to install student registration form in PHP and MYSQL - </h2>
+
 First , you will need complete zip file for student registration form. You can watch demo and download student registration system from here . 
+<br>
 <a href="https://technosmarter.com/item/student-registration-form-in-php-and-mysql-source-code">Student registration form in PHP and MYSQL | Source Code</a> 
-Get complete soure code in a zip file for student registration form. 
-Compress the zip file and find the database table in database folder. 
-Create a database . 
-Import database from the database folder . 
-Edit config.php file and set your connection credentials. 
-Execte the code and enjoy registrtion system in PHP with MYSQL database. 
+Get complete soure code in a zip file for student registration form. <br>
+Compress the zip file and find the database table in database folder. <br>
+Create a database .  <br>
+Import database from the database folder .<br> 
+Edit config.php file and set your connection credentials.<br> 
+Execte the code and enjoy registrtion system in PHP with MYSQL database. <br>
 
